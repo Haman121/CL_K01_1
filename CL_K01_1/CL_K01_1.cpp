@@ -12,4 +12,4 @@ void main(void) {
 	printf("%dに%dを足した値は%dです。\n",num1,num2,sum);
 }
 
-//コミット２
+//コミット３
